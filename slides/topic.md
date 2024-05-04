@@ -1,5 +1,5 @@
 ---
-layout: center
+layout: custom-center
 transition: slide-left
 ---
 
@@ -8,5 +8,3 @@ transition: slide-left
 <v-click>
 A Overview on Linux Distributions Components
 </v-click>
-
-<Pagination />

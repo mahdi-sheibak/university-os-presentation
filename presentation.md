@@ -1,6 +1,6 @@
 ---
 theme: default
-layout: cover
+layout: custom-cover
 title: Presentation
 transition: slide-left
 ---

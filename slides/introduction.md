@@ -1,9 +1,7 @@
 ---
-layout: center
+layout: custom-center
 title: Introduction
 transition: slide-left
 ---
 
 # <Me />
-
-<Pagination />

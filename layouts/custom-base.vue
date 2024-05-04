@@ -4,7 +4,12 @@ const props = defineProps({
 });
 </script>
 <template>
-  <div class="slidev-layout cover {{ props.layoutClass }}">
+  <div
+    :class="{
+      'slidev-layout w-full h-full': true,
+      [props.layoutClass]: props.layoutClass,
+    }"
+  >
     <slot />
 
     <Pagination />

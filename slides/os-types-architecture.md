@@ -1,4 +1,5 @@
 ---
+layout: custom-default
 transition: slide-left
 ---
 
@@ -12,5 +13,3 @@ transition: slide-left
 - Four
 
 </v-clicks>
-
-<Pagination />

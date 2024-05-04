@@ -1,0 +1,8 @@
+link: https://university-os-presentation.vercel.app/
+
+short link: https://dub.sh/unios
+
+online check distro: https://distrosea.com/
+
+
+a linux community : https://www.reddit.com/r/unixporn/

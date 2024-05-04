@@ -5,16 +5,24 @@ title: Presentation
 transition: slide-left
 ---
 
-# <Welcome />
+# <hi />
 
 ---
-src: ./slides/introduction.md
----
-
----
-src: ./slides/topic.md
+src: ./slides/01-introduction.md
 ---
 
 ---
-src: ./slides/os-types-architecture.md
+src: ./slides/02-topic.md
+---
+
+---
+src: ./slides/03-what-is-linux.md
+---
+
+---
+src: ./slides/04-linux-is-a-kernel.md
+---
+
+---
+src: ./slides/05-what-is-kernel.md
 ---

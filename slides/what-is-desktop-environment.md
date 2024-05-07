@@ -3,7 +3,7 @@ layout: custom-center
 transition: slide-left
 ---
 
-# What is Desktop Environment?
+# <what-is-desktop-environment />
 
 <v-click>
 

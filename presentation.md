@@ -8,21 +8,65 @@ transition: slide-left
 # <hi />
 
 ---
-src: ./slides/01-introduction.md
+src: ./slides/introduction.md
 ---
 
 ---
-src: ./slides/02-topic.md
+src: ./slides/topic.md
 ---
 
 ---
-src: ./slides/03-what-is-linux.md
+src: ./slides/what-is-linux.md
 ---
 
 ---
-src: ./slides/04-linux-is-a-kernel.md
+src: ./slides/linux-is-a-kernel.md
 ---
 
 ---
-src: ./slides/05-what-is-kernel.md
+src: ./slides/what-is-kernel.md
+---
+
+---
+src: ./slides/what-is-kernel-answer.md
+---
+
+---
+src: ./slides/distro-components.md
+---
+
+---
+src: ./slides/what-is-shell.md
+---
+
+---
+src: ./slides/what-is-shell-answer.md
+---
+
+---
+src: ./slides/what-is-window-system.md
+---
+
+---
+src: ./slides/what-is-window-system.answer.md
+---
+
+---
+src: ./slides/distro-components.md
+---
+
+---
+src: ./slides/what-is-window-manager.md
+---
+
+---
+src: ./slides/what-is-window-manager.answer.md
+---
+
+---
+src: ./slides/what-is-desktop-environment.md
+---
+
+---
+src: ./slides/end.md
 ---
